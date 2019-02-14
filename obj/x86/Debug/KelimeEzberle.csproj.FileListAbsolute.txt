@@ -1,0 +1,9 @@
+D:\ExcellToEnglishWord\KelimeEzberle\KelimeEzberle\obj\x86\Debug\KelimeEzberle.Form1.resources
+D:\ExcellToEnglishWord\KelimeEzberle\KelimeEzberle\obj\x86\Debug\KelimeEzberle.Properties.Resources.resources
+D:\ExcellToEnglishWord\KelimeEzberle\KelimeEzberle\obj\x86\Debug\KelimeEzberle.csproj.GenerateResource.Cache
+D:\ExcellToEnglishWord\KelimeEzberle\KelimeEzberle\bin\Debug\KelimeEzberle.exe
+D:\ExcellToEnglishWord\KelimeEzberle\KelimeEzberle\bin\Debug\KelimeEzberle.pdb
+D:\ExcellToEnglishWord\KelimeEzberle\KelimeEzberle\obj\x86\Debug\KelimeEzberle.exe
+D:\ExcellToEnglishWord\KelimeEzberle\KelimeEzberle\obj\x86\Debug\KelimeEzberle.pdb
+D:\ExcellToEnglishWord\KelimeEzberle\KelimeEzberle\obj\x86\Debug\KelimeEzberle.csprojResolveAssemblyReference.cache
+D:\ExcellToEnglishWord\KelimeEzberle\KelimeEzberle\bin\Debug\KelimeEzberle.exe.config
